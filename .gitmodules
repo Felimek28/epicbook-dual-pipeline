@@ -1,0 +1,6 @@
+[submodule "infra-epicbook"]
+	path = infra-epicbook
+	url = https://github.com/Felimek28/infra-epicbook.git
+[submodule "theepicbook"]
+	path = theepicbook
+	url = https://github.com/Felimek28/theepicbook-cicd.git

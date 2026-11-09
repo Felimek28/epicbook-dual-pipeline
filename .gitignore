@@ -1,0 +1,28 @@
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfvars
+**/*.tfvars.json
+**/*.tfplan
+**/crash.log
+
+# Secrets and credentials
+*.pem
+*.key
+.env
+.env.*
+**/vault.yml
+**/vault.yaml
+
+# Ansible
+**/*.retry
+
+# Node
+**/node_modules/
+**/npm-debug.log*
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
